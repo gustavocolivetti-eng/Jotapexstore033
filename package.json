@@ -1,0 +1,7 @@
+{
+  "name": "jotapex-firebase-project",
+  "private": true,
+  "scripts": {
+    "deploy": "firebase deploy --only functions,hosting"
+  }
+}
